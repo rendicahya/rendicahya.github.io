@@ -13,7 +13,7 @@
 - Master Degree in Informatics Engineering
   - September 2011—September 2013
   - Institut Teknologi Sepuluh Nopember, Indonesia
-  - Thesis: "Detection of Branching in Trabecular Bone Using Multiscale Cosfire Filter for Osteoporosis Identification"
+  - Thesis: "Detection of Branching in Trabecular Bone Using Multiscale COSFIRE Filter for Osteoporosis Identification"
 
 - Ph.D. Degree in Computer Science
   - October 2022—present
@@ -22,10 +22,12 @@
 # Publications
 
 # Research Profile
-- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57191287719](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
-- Google Scholar: [https://scholar.google.co.id/citations?user=qpvbsqUAAAAJ](https://scholar.google.co.id/citations?user=qpvbsqUAAAAJ)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
+- [Google Scholar](https://scholar.google.co.id/citations?user=qpvbsqUAAAAJ)
+- [SINTA](https://sinta.kemdikbud.go.id/authors/profile/6082456)
+- [ORCiD](https://orcid.org/0000-0001-8696-5687)
 
 # Certifications and Training
 
 # Contact
-[rendicahya@ub.ac.id](rendicahya@ub.ac.id)
+- [rendicahya@ub.ac.id](rendicahya@ub.ac.id)
