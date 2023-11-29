@@ -1,23 +1,23 @@
 # Education
 
-## Associate Degree in Informatics Engineering
-- September 2006—August 2009
-- Electronic Engineering Polytechnic Institute of Surabaya, Indonesia
-- Thesis: "Face-Based Gender Identification System"
+- Associate Degree in Informatics Engineering
+  - September 2006—August 2009
+  - Electronic Engineering Polytechnic Institute of Surabaya, Indonesia
+  - Thesis: "Face-Based Gender Identification System"
 
-## Bachelor Degree in Informatics Engineering
-- September 2009—February 2011
-- Electronic Engineering Polytechnic Institute of Surabaya, Indonesia
-- Thesis: "Sudoku Puzzle Solution Using Genetic Algorithm"
+- Bachelor Degree in Informatics Engineering
+  - September 2009—February 2011
+  - Electronic Engineering Polytechnic Institute of Surabaya, Indonesia
+  - Thesis: "Sudoku Puzzle Solution Using Genetic Algorithm"
 
-## Master Degree in Informatics Engineering
-- September 2011—September 2013
-- Institut Teknologi Sepuluh Nopember, Indonesia
-- Thesis: "Detection of Branching in Trabecular Bone Using Multiscale Cosfire Filter for Osteoporosis Identification"
+- Master Degree in Informatics Engineering
+  - September 2011—September 2013
+  - Institut Teknologi Sepuluh Nopember, Indonesia
+  - Thesis: "Detection of Branching in Trabecular Bone Using Multiscale Cosfire Filter for Osteoporosis Identification"
 
-## Ph.D. Degree in Computer Science
-- October 2022—present
-- Kumamoto University, Japan
+- Ph.D. Degree in Computer Science
+  - October 2022—present
+  - Kumamoto University, Japan
 
 # Publications
 
