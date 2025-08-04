@@ -19,8 +19,6 @@
   - October 2022—present
   - Kumamoto University, Japan
 
-# Publications
-
 # Research Profile
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
 - [Google Scholar](https://scholar.google.co.id/citations?user=qpvbsqUAAAAJ)
