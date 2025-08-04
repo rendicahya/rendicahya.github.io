@@ -18,6 +18,7 @@
 - Ph.D. Degree in Computer Science
   - October 2022—present
   - Kumamoto University, Japan
+  - Thesis: "Context-aware Video Augmentation for Human Action Recognition"
 
 # Research Profile
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
