@@ -1,4 +1,4 @@
-# Education
+# 🎓 Education
 
 - Associate Degree in Informatics Engineering
   - September 2006—August 2009
@@ -20,11 +20,11 @@
   - Kumamoto University, Japan
   - Thesis: "Context-aware Video Augmentation for Human Action Recognition"
 
-# Research Profile
+# 🔬 Research Profile
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
 - [Google Scholar](https://scholar.google.co.id/citations?user=qpvbsqUAAAAJ)
 - [SINTA](https://sinta.kemdikbud.go.id/authors/profile/6082456)
 - [ORCiD](https://orcid.org/0000-0001-8696-5687)
 
-# Contact
-- [rendicahya@ub.ac.id](rendicahya@ub.ac.id)
+# 📬 Contact
+- [mailto:rendicahya@ub.ac.id](rendicahya@ub.ac.id)
