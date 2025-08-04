@@ -15,7 +15,7 @@
   - Institut Teknologi Sepuluh Nopember, Indonesia
   - Thesis: _Detection of Branching in Trabecular Bone Using Multiscale COSFIRE Filter for Osteoporosis Identification_
 
-- Ph.D. Degree in Computer Science
+- Ph.D. in Computer Science
   - October 2022—present
   - Kumamoto University, Japan
   - Thesis: _Context-aware Video Augmentation for Human Action Recognition_
