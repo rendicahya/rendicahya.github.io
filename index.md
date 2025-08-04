@@ -22,12 +22,10 @@
 # Publications
 
 # Research Profile
-- [![Scopus]([https://i.imgur.com/XXXXX.png](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Scopus_logo.svg/412px-Scopus_logo.svg.png)){height=50}](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
 - [Google Scholar](https://scholar.google.co.id/citations?user=qpvbsqUAAAAJ)
 - [SINTA](https://sinta.kemdikbud.go.id/authors/profile/6082456)
 - [ORCiD](https://orcid.org/0000-0001-8696-5687)
-
-# Certifications and Training
 
 # Contact
 - [rendicahya@ub.ac.id](rendicahya@ub.ac.id)
