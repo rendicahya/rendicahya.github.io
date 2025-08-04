@@ -3,22 +3,22 @@
 - Associate Degree in Informatics Engineering
   - September 2006—August 2009
   - Electronic Engineering Polytechnic Institute of Surabaya, Indonesia
-  - Thesis: "Face-Based Gender Identification System"
+  - Thesis: _Face-Based Gender Identification System_
 
 - Bachelor Degree in Informatics Engineering
   - September 2009—February 2011
   - Electronic Engineering Polytechnic Institute of Surabaya, Indonesia
-  - Thesis: "Sudoku Puzzle Solution Using Genetic Algorithm"
+  - Thesis: _Sudoku Puzzle Solution Using Genetic Algorithm_
 
 - Master Degree in Informatics Engineering
   - September 2011—September 2013
   - Institut Teknologi Sepuluh Nopember, Indonesia
-  - Thesis: "Detection of Branching in Trabecular Bone Using Multiscale COSFIRE Filter for Osteoporosis Identification"
+  - Thesis: _Detection of Branching in Trabecular Bone Using Multiscale COSFIRE Filter for Osteoporosis Identification_
 
 - Ph.D. Degree in Computer Science
   - October 2022—present
   - Kumamoto University, Japan
-  - Thesis: "Context-aware Video Augmentation for Human Action Recognition"
+  - Thesis: _Context-aware Video Augmentation for Human Action Recognition_
 
 # 🔬 Research Profile
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
@@ -27,4 +27,4 @@
 - [ORCiD](https://orcid.org/0000-0001-8696-5687)
 
 # 📬 Contact
-- [mailto:rendicahya@ub.ac.id](rendicahya@ub.ac.id)
+- [rendicahya@ub.ac.id](mailto:rendicahya@ub.ac.id)
