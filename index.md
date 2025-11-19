@@ -16,15 +16,15 @@
   - Thesis: _Detection of Branching in Trabecular Bone Using Multiscale COSFIRE Filter for Osteoporosis Identification_
 
 - Ph.D. in Computer Science
-  - October 2022—present
+  - October 2022—September 2025
   - Kumamoto University, Japan
   - Thesis: _Context-aware Video Augmentation for Human Action Recognition_
 
 # 🔬 Research Profile
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
 - [Google Scholar](https://scholar.google.co.id/citations?user=qpvbsqUAAAAJ)
-- [SINTA](https://sinta.kemdikbud.go.id/authors/profile/6082456)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191287719)
 - [ORCiD](https://orcid.org/0000-0001-8696-5687)
+- [SINTA](https://sinta.kemdikbud.go.id/authors/profile/6082456)
 
 # 📬 Contact
 - [rendicahya@ub.ac.id](mailto:rendicahya@ub.ac.id)
